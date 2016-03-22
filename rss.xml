@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Mark Sumaljag]]></title>
         <description><![CDATA[Mark Sumaljag]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marksumaljag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 09:27:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 12:57:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marksumaljag/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined7d8b5fa1-e218-451e-89ac-b42ac64bf508/index.html</link>
+            <description><![CDATA[<p>Success isn't about being the best. It's about always getting better.  - Behance 99U</p>]]></description>
+            <link>https://thegrid.ai/marksumaljag/7d8b5fa1-e218-451e-89ac-b42ac64bf508/index.html</link>
             <guid isPermaLink="false">7d8b5fa1-e218-451e-89ac-b42ac64bf508</guid>
-            <pubDate>Tue, 22 Mar 2016 09:26:55 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 12:57:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
