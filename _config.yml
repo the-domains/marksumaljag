@@ -1,28 +1,40 @@
-name: Mark Sumaljag
-favicon: null
-layout_spectrum: 0.8980211121961474
-typography_spectrum: 0.36676842672750354
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5566990454681218
+  brandStrength: 0.9344408551696688
+  rhythmicContrast: 0.3110069415997714
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.9344408551696688
   lightness: 0.927582283038646
-  saturation: 0.5566990454681218
-  rhythmicContrast: 0.3110069415997714
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Mark Sumaljag
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3667684267275035
+layout_spectrum: 0.5215054
